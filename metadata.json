@@ -1,0 +1,8 @@
+{
+  "name": "AI 틱택토 (AI Tic-Tac-Toe)",
+  "description": "다양한 난이도의 AI와 대결할 수 있는 틱택토 게임입니다. 전문가 난이도에서는 완벽한 수를 두는 무자비한 AI를 상대해 보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
